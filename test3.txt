@@ -1,3 +1,0 @@
-creates test3.txt
-this is text3
-g
